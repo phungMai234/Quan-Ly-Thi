@@ -1,0 +1,15 @@
+﻿.active {
+    background-color: #343a40 !important;
+}
+
+.input-group {
+    padding: 0;
+}
+/* Sửa button */
+button {
+    width: 9em;
+}
+
+.dropdown {
+    line-height: 3;
+}
